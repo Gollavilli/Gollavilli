@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-**Gollavilli/Gollavilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm ✨  **Chaitanya Gollavilli** ✨ ! 👋
+I'm a Senior DevOps Engineer with over 10 years of experience in designing, building, and optimizing cloud infrastructure on AWS. I specialize in automation, CI/CD pipelines, and infrastructure as code, with a strong focus on scalability and performance
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
