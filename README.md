@@ -7,7 +7,7 @@ I'm a Senior DevOps Engineer with over 10 years of experience in designing, buil
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gollavilli/Gollavilli/blob/main/naruto.jpg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gollavilli/Gollavilli/blob/main/naruto.jpg?raw=true">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="https://github.com/Gollavilli/Gollavilli/blob/main/naruto.jpg?raw=true">
 </picture>
