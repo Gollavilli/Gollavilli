@@ -5,10 +5,9 @@ I'm a Senior DevOps Engineer with over 10 years of experience in designing, buil
 
 🔧 Skills & Expertise: AWS, Kubernetes, Terraform, CI/CD Pipelines, GitHub Actions, NATS, Bottlerocket, Python
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[![image](https://github.com/user-attachments/assets/16cea83e-af4f-406f-a9ff-5db3eebd2a8c)](https://www.google.com/imgres?q=naruto%20image%20best&imgurl=https%3A%2F%2Fscreenrant.com%2Fwp-content%2Fuploads%2Fnaruto.jpg&imgrefurl=https%3A%2F%2Fscreenrant.com%2Fnaruto-anime-best-characters%2F&docid=C7VXXrr8j-1o-M&tbnid=0ZbnxzVwJ78lnM&vet=12ahUKEwjkhabApJSJAxXWJdAFHQhIPHwQM3oECGcQAA..i&w=1920&h=960&hcb=2&ved=2ahUKEwjkhabApJSJAxXWJdAFHQhIPHwQM3oECGcQAA)
-">
-  <source media="(prefers-color-scheme: light)" srcset="[![image](https://github.com/user-attachments/assets/1d801971-56f5-4de8-b5e7-b5e50f58e3dd)](https://www.google.com/imgres?q=naruto%20image%20best&imgurl=https%3A%2F%2Fscreenrant.com%2Fwp-content%2Fuploads%2Fnaruto.jpg&imgrefurl=https%3A%2F%2Fscreenrant.com%2Fnaruto-anime-best-characters%2F&docid=C7VXXrr8j-1o-M&tbnid=0ZbnxzVwJ78lnM&vet=12ahUKEwjkhabApJSJAxXWJdAFHQhIPHwQM3oECGcQAA..i&w=1920&h=960&hcb=2&ved=2ahUKEwjkhabApJSJAxXWJdAFHQhIPHwQM3oECGcQAA)
-">
-  <img alt="Naruto in action" src="https://www.google.com/imgres?q=naruto%20image%20best&imgurl=https%3A%2F%2Fscreenrant.com%2Fwp-content%2Fuploads%2Fnaruto.jpg&imgrefurl=https%3A%2F%2Fscreenrant.com%2Fnaruto-anime-best-characters%2F&docid=C7VXXrr8j-1o-M&tbnid=0ZbnxzVwJ78lnM&vet=12ahUKEwjkhabApJSJAxXWJdAFHQhIPHwQM3oECGcQAA..i&w=1920&h=960&hcb=2&ved=2ahUKEwjkhabApJSJAxXWJdAFHQhIPHwQM3oECGcQAA">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
